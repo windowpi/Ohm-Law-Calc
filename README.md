@@ -1,6 +1,6 @@
 # Ohm-Law-Calc
 
-    My program for an ohm's law calculator
+My program for an ohm's law calculator
 ------------------------------------------
 
 It is a very basic and most likely not optimized calculator for Ohm's Law. 
